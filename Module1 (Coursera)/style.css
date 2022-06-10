@@ -1,0 +1,50 @@
+*{
+ box-sizing: border-box;
+}
+
+.heading{
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+.container{
+  color: red;
+}
+
+.paraHeading{
+  color: blueviolet;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: cursive;
+}
+
+.sports{
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+  width: 40%;
+  float: left;
+}
+
+.casual{
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+  float: left;
+  width: 40%;
+}
+
+.sneaker{
+  border: 2px solid black;
+  /* margin-left: 20px;
+  margin-top: 60px; */
+  padding: 20px;
+  float: left;
+  margin: 20px;
+  width: 40%;
+}
+
+.para{
+  font-style: italic;
+}
